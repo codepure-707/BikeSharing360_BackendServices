@@ -9,7 +9,7 @@
   "dependencies": {
     "glob": "^7.0.6",
     "restify": "^4.1.1",
-    "sequelize": "^3.24.1",
+    "sequelize": "^6.6.5",
     "tedious": "^1.14.0"
   }
 }
